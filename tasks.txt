@@ -1,3 +1,2 @@
 Do do list of task
-- check working state
-- working
+- make first improve
